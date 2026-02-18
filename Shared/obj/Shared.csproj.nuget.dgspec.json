@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VS community\\shared\\NuGetPackages"

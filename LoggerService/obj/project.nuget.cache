@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AANMsc5BUtM=",
+  "dgSpecHash": "NeHuxUC5V/g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.0\\microsoft.aspnetcore.authentication.2.3.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",

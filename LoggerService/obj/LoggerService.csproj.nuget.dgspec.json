@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\LoggerService\\LoggerService.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\LoggerService\\LoggerService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VS community\\shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\source\\repos\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Entities\\Entities.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Entities\\Entities.csproj"
               }
             }
           }
@@ -347,14 +347,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\Entities\\Entities.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VS community\\shared\\NuGetPackages"
@@ -375,8 +375,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj"
               }
             }
           }
@@ -704,14 +704,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\LoggerService\\LoggerService.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\LoggerService\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VS community\\shared\\NuGetPackages"
@@ -732,8 +732,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\source\\repos\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Contracts\\Contracts.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -1053,14 +1053,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VS community\\shared\\NuGetPackages"

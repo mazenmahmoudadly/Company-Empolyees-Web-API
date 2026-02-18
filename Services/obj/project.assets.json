@@ -1930,11 +1930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Services\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VS community\\shared\\NuGetPackages"
@@ -1955,11 +1955,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\source\\repos\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Contracts\\Contracts.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\Lenovo\\source\\repos\\Service.Contracts\\Service.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Service.Contracts\\Service.Contracts.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Service.Contracts\\Service.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Service.Contracts\\Service.Contracts.csproj"
             }
           }
         }

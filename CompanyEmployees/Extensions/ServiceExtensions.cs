@@ -214,7 +214,7 @@ namespace CompanyEmployees.Extensions
                         new List<string>()
                     }
                });
-                var xmlFile = "C:\\Users\\Lenovo\\source\\repos\\CompanyEmpolyees.Presentation\\CompanyEmployees.Presentation.xml"; // exact file name
+                var xmlFile = "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\CompanyEmpolyees.Presentation\\CompanyEmployees.Presentation.xml"; // exact file name
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 s.IncludeXmlComments(xmlPath);
             });

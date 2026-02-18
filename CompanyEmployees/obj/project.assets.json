@@ -4113,11 +4113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\CompanyEmployees\\CompanyEmployees.csproj",
       "projectName": "CompanyEmployees",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\CompanyEmployees\\CompanyEmployees.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\CompanyEmployees\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\CompanyEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VS community\\shared\\NuGetPackages"
@@ -4138,17 +4138,17 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\source\\repos\\CompanyEmpolyees.Presentation\\CompanyEmpolyees.Presentation.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CompanyEmpolyees.Presentation\\CompanyEmpolyees.Presentation.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\CompanyEmpolyees.Presentation\\CompanyEmpolyees.Presentation.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\CompanyEmpolyees.Presentation\\CompanyEmpolyees.Presentation.csproj"
             },
-            "C:\\Users\\Lenovo\\source\\repos\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\LoggerService\\LoggerService.csproj"
             },
-            "C:\\Users\\Lenovo\\source\\repos\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Repository\\Repository.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\Lenovo\\source\\repos\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Services\\Services.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Company-Empolyees-Web-API\\Services\\Services.csproj"
             }
           }
         }
