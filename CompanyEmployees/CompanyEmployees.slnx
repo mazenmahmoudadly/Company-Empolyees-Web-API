@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="../CompanyEmpolyees.Presentation/CompanyEmpolyees.Presentation.csproj" />
+  <Project Path="../Contracts/Contracts.csproj" />
+  <Project Path="../Entities/Entities.csproj" />
+  <Project Path="../LoggerService/LoggerService.csproj" />
+  <Project Path="../Repository/Repository.csproj" />
+  <Project Path="../Service.Contracts/Service.Contracts.csproj" />
+  <Project Path="../Services/Services.csproj" Id="2d727521-9062-4779-bc7a-1a13f46b578c" />
+  <Project Path="../Shared/Shared.csproj" />
+  <Project Path="CompanyEmployees.csproj" />
+</Solution>
